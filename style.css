@@ -1,0 +1,39 @@
+.main-heading {
+    background-color: darkgray;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: larger;
+}
+
+.para {
+    background-color: darkseagreen;
+    font-size: 20px;
+}
+
+.para2 {
+    background-color: darkslateblue;
+    font-size: 20px;
+}
+
+.table {
+    background-color: teal;
+    border-color: violet;
+}
+
+.form {
+    background-color: goldenrod;
+    border: solid 2px black;
+}
+
+.card {
+    border: solid 2px chartreuse;
+    background-color: yellow;
+    font-size: 20px;
+}
+
+.thank {
+    color: yellow;
+    background-color: crimson;
+    font-size: 30px;
+}
